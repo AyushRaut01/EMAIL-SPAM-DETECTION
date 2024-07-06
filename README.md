@@ -5,7 +5,7 @@ I developed an email spam detection system aimed at identifying and filtering ou
 
 # Key Characteristics:
 
-Accuracy: High precision in distinguishing spam from legitimate emails.
+Accuracy: High precision in distinguishing spam from legitimate emails.<br>
 Efficiency: Quick processing time ensuring minimal delay in email delivery.
 Scalability: Can handle a large volume of emails seamlessly.
 
